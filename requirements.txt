@@ -1,0 +1,13 @@
+PyQt5
+PyQtWebEngine
+folium
+nested-lookup
+requests
+concurrent.futures
+xmltodict
+gdacs
+feedparser
+smtplib
+google-generativeai
+playwright
+parsel
